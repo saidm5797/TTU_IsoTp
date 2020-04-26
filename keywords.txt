@@ -1,0 +1,20 @@
+#######################################
+# Syntax Coloring Map For CmdArduino
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+send	KEYWORD2
+receive	KEYWORD2
+isoBegin	KEYWORD2
+isoSetMode	KEYWORD2
+print_buffer	KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
