@@ -9,9 +9,9 @@ Found here: https://github.com/coryjfowler/MCP_CAN_lib
 This allows it to be used as a base class for the TTUCAN class.
 Found here: https://github.com/saidm5797/TTUCAN
 
-From altelch's repository:
-    ISO 15765-2 ISO-TP protocol implementation for Arduino
+From altelch's repository (as of 4/26/2020):
 
+    ISO 15765-2 ISO-TP protocol implementation for Arduino
     This implementation requires MCP_CAN_lib from
 
     https://github.com/coryjfowler/MCP_CAN_lib with debug output disabled.
